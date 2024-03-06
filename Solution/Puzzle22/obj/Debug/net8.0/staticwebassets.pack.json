@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\carl\\OneDrive\\Desktop\\puzzles\\Puzzle-22\\Solution\\Puzzle22\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Puzzle22.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Puzzle22.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\carl\\OneDrive\\Desktop\\puzzles\\Puzzle-22\\Solution\\Puzzle22\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\carl\\OneDrive\\Desktop\\puzzles\\Puzzle-22\\Solution\\Puzzle22\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\carl\\OneDrive\\Desktop\\puzzles\\Puzzle-22\\Solution\\Puzzle22\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\carl\\OneDrive\\Desktop\\puzzles\\Puzzle-22\\Solution\\Puzzle22\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Puzzle22.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Puzzle22.props",
+      "PackagePath": "build\\Puzzle22.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Puzzle22.props",
+      "PackagePath": "buildMultiTargeting\\Puzzle22.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Puzzle22.props",
+      "PackagePath": "buildTransitive\\Puzzle22.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
